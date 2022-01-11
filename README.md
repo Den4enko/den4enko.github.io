@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Den4enko
-- 👀 I’m interested in Programing
+- 👀 I’m interested in Programming
 - 📫 dima.den4enko.ok@gmail.com
