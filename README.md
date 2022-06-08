@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Den4enko
-- 👀 I’m interested in Programming
+- 👀 Born in Ukraine. Currently living in Germany.
 - 📫 dima.den4enko.ok@gmail.com
