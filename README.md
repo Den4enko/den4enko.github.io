@@ -4,4 +4,4 @@
 
 Navigator:
 - [GamersReforged](https://den4enko.github.io/GamersReforged/)
-- [Slimefun-Resourcepack](https://github.com/Den4enko/Slimefun-Resourcepack)
+- [Slimefun-Resourcepack](https://den4enko.github.io/Slimefun-Resourcepack/)
