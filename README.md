@@ -3,5 +3,6 @@
 - 📫 dima.den4enko.ok@gmail.com
 
 Navigator:
-- [GamersReforged](https://den4enko.github.io/GamersReforged/)
-- [Slimefun-Resourcepack](https://den4enko.github.io/Slimefun-Resourcepack/)
+- [GamersReforged](/GamersReforged)
+- [Slimefun-Resourcepack](/Slimefun-Resourcepack)
+- [MVS+](https://mvsplus.github.io)
