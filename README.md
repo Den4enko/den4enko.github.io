@@ -5,4 +5,5 @@
 Navigator:
 - [GamersReforged](/GamersReforged)
 - [Slimefun-Resourcepack](/Slimefun-Resourcepack)
+- [Hardcore+](/HardPlus)
 - [MVS+](https://mvsplus.github.io)
