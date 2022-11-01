@@ -3,6 +3,7 @@
 - 📫 [dima.den4enko.ok@gmail.com](mailto://dima.den4enko.ok@gmail.com)
 
 Navigator:
+- [GamersReloaded](/GamersReloaded)
 - [GamersMagicated](/GamersMagicated)
 - [GamersReforged](/GamersReforged)
 - [Slimefun-Resourcepack](/Slimefun-Resourcepack)
