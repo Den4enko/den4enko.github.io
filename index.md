@@ -4,10 +4,10 @@
 
 ### Navigator:
 #### Active projects:
-- ![logo](https://raw.githubusercontent.com/Den4enko/GamersBuried/1.18.2/release/config/fancymenu/minecraftwindow/icons/icon16x16.png) [GamersBuried](/GamersBuried)
-- ![logo](https://raw.githubusercontent.com/Den4enko/GamersReloaded/1.18.2/release/config/fancymenu/minecraftwindow/icons/icon16x16.png) [GamersReloaded](/GamersReloaded)
+- <img src="https://raw.githubusercontent.com/Den4enko/GamersBuried/1.18.2/release/GamersBuried.png" width="16" height="16"> [GamersBuried](/GamersBuried)
+- <img src="https://raw.githubusercontent.com/Den4enko/GamersReloaded/1.18.2/release/GamersReloaded.png" width="16" height="16"> [GamersReloaded](/GamersReloaded)
 #### Archived projects:
-- ![logo](https://raw.githubusercontent.com/Den4enko/GamersMagicated/1.18.2/release/config/fancymenu/minecraftwindow/icons/icon16x16.png) [GamersMagicated](/GamersMagicated)
-- ![logo](https://raw.githubusercontent.com/Den4enko/GamersReforged/1.18.2/release/config/fancymenu/minecraftwindow/icons/icon16x16.png) [GamersReforged](/GamersReforged)
+- <img src="https://raw.githubusercontent.com/Den4enko/GamersMagicated/1.18.2/release/GamersMagicated.png" width="16" height="16"> [GamersMagicated](/GamersMagicated)
+- <img src="https://raw.githubusercontent.com/Den4enko/GamersReforged/1.18.2/release/GamersReforged.png" width="16" height="16"> [GamersReforged](/GamersReforged)
 - [Slimefun-Resourcepack](/Slimefun-Resourcepack)
 - [MVS+](https://mvsplus.github.io)
