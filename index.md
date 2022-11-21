@@ -4,7 +4,7 @@
 
 ### Navigator:
 #### Active projects:
-- <img src="https://raw.githubusercontent.com/Den4enko/GamersBuried/1.18.2/release/GamersBuried.png" width="16" height="16"> [GamersBuried](/GamersBuried)
+- <img src="https://raw.githubusercontent.com/Den4enko/GamersBuried/1.19.2/release/GamersBuried.png" width="16" height="16"> [GamersBuried](/GamersBuried)
 - <img src="https://raw.githubusercontent.com/Den4enko/GamersReloaded/1.18.2/release/GamersReloaded.png" width="16" height="16"> [GamersReloaded](/GamersReloaded)
 #### Archived projects:
 - <img src="https://raw.githubusercontent.com/Den4enko/GamersMagicated/1.18.2/release/GamersMagicated.png" width="16" height="16"> [GamersMagicated](/GamersMagicated)
