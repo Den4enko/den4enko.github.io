@@ -4,6 +4,7 @@
 
 ## Navigator:
 ### Active projects:
+- <img src="https://raw.githubusercontent.com/Den4enko/CustomRussianForMinecraft/1.19.3/pack.png" width="24" height="24"> [CustomRussianForMinecraft](/CustomRussianForMinecraft)
 - <img src="https://raw.githubusercontent.com/Den4enko/GamersBuried/1.19.2/release/GamersBuried.png" width="24" height="24"> [GamersBuried](/GamersBuried)
 - <img src="https://raw.githubusercontent.com/Den4enko/GamersReloaded/1.18.2/release/GamersReloaded.png" width="24" height="24"> [GamersReloaded](/GamersReloaded)
 
