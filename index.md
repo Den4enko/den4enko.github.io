@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@Den4enko](https://github.com/Den4enko)
+- 👋 Hi, I’m [@Den4enko](https://github.com/Den4enko) (Dmytro Denchenko)
 - 👀 Born in Ukraine.
 - 📫 [dima.den4enko.ok@gmail.com](mailto://dima.den4enko.ok@gmail.com)
 
