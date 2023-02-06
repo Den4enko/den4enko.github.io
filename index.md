@@ -11,5 +11,5 @@
 ### Archived projects:
 - <img src="https://raw.githubusercontent.com/Den4enko/GamersMagicated/1.18.2/release/GamersMagicated.png" width="24" height="24"> [GamersMagicated](/GamersMagicated)
 - <img src="https://raw.githubusercontent.com/Den4enko/GamersReforged/1.18.2/release/GamersReforged.png" width="24" height="24"> [GamersReforged](/GamersReforged)
-- [Slimefun-Resourcepack](/Slimefun-Resourcepack)
+- <img src="https://raw.githubusercontent.com/Den4enko/Slimefun-Resourcepack/main/textures/pack.png" width="24" height="24"> [Slimefun-Resourcepack](/Slimefun-Resourcepack)
 - [MVS+](https://mvsplus.github.io)
