@@ -1,7 +1,7 @@
 ---
 title: GamersReforged (Archived)
 date: 2021-12-14
-categories: [Archive]
+categories: [Archived]
 ---
 Hightly optimized kitchen-sink Minecraft modpack oriented for multiplayer. Try [GamersReloaded](/posts/GamersReloaded/)!
 ### Download
