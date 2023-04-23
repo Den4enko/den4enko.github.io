@@ -10,11 +10,11 @@ For example,
 
 It turns this (Свекольный суп):
 
-![beetrootsoup](/images/beetrootsoup.jpg)
+![beetrootsoup](/assets/img/resourcepacks/CustomRussianForMinecraft/beetrootsoup.jpg)
   
  Into this (Борщ):
 
-![borsch](/images/borsch.jpg)
+![borsch](/assets/img/resourcepacks/CustomRussianForMinecraft/borsch.jpg)
   
 This made because of Russian-speak Ukrainians prefer saying "Borsh" instead of "Beetrootsoup".
 

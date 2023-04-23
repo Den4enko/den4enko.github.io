@@ -3,7 +3,7 @@ title: GamersBuried
 date: 2021-11-18
 categories: [Minecraft, Modpacks]
 ---
-<img src="/images/GamersBuried.png" alt="GamersBuried" width="200"/>
+<img src="/assets/img/modpacks/GamersBuried.png" alt="GamersBuried" width="200"/>
 
 ## About
 
