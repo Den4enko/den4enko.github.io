@@ -15,4 +15,5 @@ Need something similar for Fabric Loader? [Fabulously Optimized](https://github.
 
 ## Downloads
 ### [MultiMC](https://multimc.org/), [PrismLauncher](https://prismlauncher.org/) Auto-Updating Pack:
--  For 1.18.2: [Click or Drag-n-Drop](/ForgePackBase/ForgePackBase.zip)
+-  For 1.19.2: [Click or Drag-n-Drop](/ForgePackBase/ForgePackBase(1.19.2).zip)
+-  For 1.18.2: [Click or Drag-n-Drop](/ForgePackBase/ForgePackBase(1.18.2).zip)
