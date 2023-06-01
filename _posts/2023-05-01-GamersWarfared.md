@@ -12,5 +12,5 @@ Based on [ForgePackBase](/posts/ForgePackBase)
 
 ## Downloads
 ### [MultiMC](https://multimc.org/), [PrismLauncher](https://prismlauncher.org/) Auto-Updating Pack:
-- Latest release(1.18.2): [Click or Drag-n-Drop](/GamersWarfared/GamersWarfared.zip)
-- Latest beta(1.18.2): [Click or Drag-n-Drop](/GamersWarfared/GamersWarfared-Beta.zip)
+- Latest release(1.19.2): [Click or Drag-n-Drop](/GamersWarfared/GamersWarfared.zip)
+- Latest beta(1.19.2): [Click or Drag-n-Drop](/GamersWarfared/GamersWarfared-Beta.zip)
