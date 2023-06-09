@@ -9,6 +9,7 @@ categories: [Minecraft, Modpacks]
 Hightly optimized magic, hi-tech, shooter-like Minecraft modpack oriented for multiplayer.
 
 Based on [ForgePackBase](/posts/ForgePackBase)
+<img alt="Scanned with jar-infection-scanner" height="56" src="/assets/svg/badges/jar-infection-scanner.svg">
 
 ## Downloads
 ### [MultiMC](https://multimc.org/), [PrismLauncher](https://prismlauncher.org/) Auto-Updating Pack:
