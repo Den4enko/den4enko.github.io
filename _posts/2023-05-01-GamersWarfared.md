@@ -6,7 +6,7 @@ categories: [Minecraft, Modpacks]
 <img src="/assets/img/modpacks/GamersWarfared.png" alt="GamersWarfared" width="200"/>
 
 ## About the modpack
-Hightly optimized magic, hi-tech, shooter-like Minecraft modpack oriented for multiplayer.
+Hightly optimized hi-tech, shooter-like Minecraft modpack oriented for multiplayer.
 
 Based on [ForgePackBase](/posts/ForgePackBase)
 
