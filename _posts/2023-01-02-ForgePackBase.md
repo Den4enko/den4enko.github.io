@@ -2,8 +2,9 @@
 title: ForgePackBase
 date: 2023-01-02
 categories: [Minecraft, Modpacks]
+image:
+  path: /assets/img/modpacks/preview/ForgePackBase.png
 ---
-<img src="/assets/img/modpacks/ForgePackBase.png" alt="ForgePackBase" width="200"/>
 
 The modpack base for Forge.
 

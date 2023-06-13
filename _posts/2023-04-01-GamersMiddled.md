@@ -2,9 +2,9 @@
 title: GamersMiddled
 date: 2023-04-01
 categories: [Minecraft, Modpacks]
+image:
+  path: /assets/img/modpacks/preview/GamersMiddled.png
 ---
-<img src="/assets/img/modpacks/GamersMiddled.png" alt="GamersMiddled" width="200"/>
-
 ## About the modpack
 Hightly optimized magic, medieval, steampunk Minecraft modpack oriented for multiplayer.
 

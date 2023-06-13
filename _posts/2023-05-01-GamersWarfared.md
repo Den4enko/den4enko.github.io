@@ -2,9 +2,9 @@
 title: GamersWarfared
 date: 2023-05-01
 categories: [Minecraft, Modpacks]
+image:
+  path: /assets/img/modpacks/preview/GamersWarfared.png
 ---
-<img src="/assets/img/modpacks/GamersWarfared.png" alt="GamersWarfared" width="200"/>
-
 ## About the modpack
 Hightly optimized hi-tech, shooter-like Minecraft modpack oriented for multiplayer.
 
