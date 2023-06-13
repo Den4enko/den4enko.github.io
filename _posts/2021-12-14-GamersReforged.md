@@ -1,7 +1,8 @@
 ---
-title: GamersReforged (Archived)
+title: GamersReforged
 date: 2021-12-14
-categories: [Archived]
+categories: [Minecraft, Modpacks]
+tags: [archived]
 image:
   path: /assets/img/modpacks/preview/GamersReforged.png
 ---

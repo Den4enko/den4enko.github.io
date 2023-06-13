@@ -1,7 +1,8 @@
 ---
-title: Slimefun-Resourcepack (Archived)
+title: Slimefun-Resourcepack
 date: 2021-05-29
-categories: [Archived]
+categories: [Minecraft, Resourcepacks]
+tags: [archived]
 image:
   path: /assets/img/resourcepacks/preview/Slimefun-Resourcepack.png
 ---

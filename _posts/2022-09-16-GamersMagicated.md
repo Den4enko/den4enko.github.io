@@ -1,7 +1,8 @@
 ---
-title: GamersMagicated (Archived)
+title: GamersMagicated
 date: 2022-09-16
-categories: [Archived]
+categories: [Minecraft, Modpacks]
+tags: [archived]
 image:
   path: /assets/img/modpacks/preview/GamersMagicated.png
 ---
