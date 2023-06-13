@@ -2,9 +2,9 @@
 title: GamersMagicated (Archived)
 date: 2022-09-16
 categories: [Archived]
+image:
+  path: /assets/img/modpacks/preview/GamersMagicated.png
 ---
-<img src="/assets/img/modpacks/GamersMagicated.png" alt="GamersMagicated" width="200"/>
-
 ## About the modpack
 Hightly optimized magic Minecraft modpack oriented for multiplayer.
 

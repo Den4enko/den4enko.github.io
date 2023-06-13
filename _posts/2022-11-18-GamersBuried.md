@@ -2,9 +2,9 @@
 title: GamersBuried
 date: 2022-11-18
 categories: [Minecraft, Modpacks]
+image:
+  path: /assets/img/modpacks/preview/GamersBuried.png
 ---
-<img src="/assets/img/modpacks/GamersBuried.png" alt="GamersBuried" width="200"/>
-
 ## About
 
 Have you ever wondered? Is it possible to survive buried underground?

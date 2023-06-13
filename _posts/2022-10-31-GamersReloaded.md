@@ -2,9 +2,9 @@
 title: GamersReloaded
 date: 2022-10-31
 categories: [Minecraft, Modpacks]
+image:
+  path: /assets/img/modpacks/preview/GamersReloaded.png
 ---
-<img src="/assets/img/modpacks/GamersReloaded.png" alt="GamersReloaded" width="200"/>
-
 Hightly optimized kitchen-sink Minecraft modpack oriented for multiplayer. Continuation of [GamersReforged](/posts/GamersReforged/).
 
 ## Downloads

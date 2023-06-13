@@ -2,9 +2,9 @@
 title: Slimefun-Resourcepack (Archived)
 date: 2021-05-29
 categories: [Archived]
+image:
+  path: /assets/img/resourcepacks/preview/Slimefun-Resourcepack.png
 ---
-<img src="/assets/img/resourcepacks/Slimefun-Resourcepack.png" alt="Slimefun-Resourcepack" width="200"/>
-
 ### Important Information
 This fork has been suspended! Use [xMikux/Slimefun-Resourcepack](https://github.com/xMikux/Slimefun-Resourcepack) instead.
 ## About
