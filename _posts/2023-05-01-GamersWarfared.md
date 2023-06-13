@@ -2,6 +2,7 @@
 title: GamersWarfared
 date: 2023-05-01
 categories: [Minecraft, Modpacks]
+pin: true
 image:
   path: /assets/img/modpacks/preview/GamersWarfared.png
 ---
