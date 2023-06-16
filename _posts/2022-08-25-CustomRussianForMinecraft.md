@@ -2,6 +2,7 @@
 title: CustomRussianForMinecraft
 date: 2022-08-25
 categories: [Minecraft, Resourcepacks]
+tags: [active]
 ---
 
 Adds Ukranian dialect for Russian language. And also has some funny additions.

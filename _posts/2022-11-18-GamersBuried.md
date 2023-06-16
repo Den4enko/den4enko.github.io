@@ -2,6 +2,7 @@
 title: GamersBuried
 date: 2022-11-18
 categories: [Minecraft, Modpacks]
+tags: [active]
 image:
   path: /assets/img/modpacks/preview/GamersBuried.png
 ---

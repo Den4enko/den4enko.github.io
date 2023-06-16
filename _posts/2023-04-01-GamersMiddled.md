@@ -2,6 +2,7 @@
 title: GamersMiddled
 date: 2023-04-01
 categories: [Minecraft, Modpacks]
+tags: [active]
 image:
   path: /assets/img/modpacks/preview/GamersMiddled.png
 ---

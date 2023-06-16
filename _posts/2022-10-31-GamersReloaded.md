@@ -2,6 +2,7 @@
 title: GamersReloaded
 date: 2022-10-31
 categories: [Minecraft, Modpacks]
+tags: [active]
 image:
   path: /assets/img/modpacks/preview/GamersReloaded.png
 ---

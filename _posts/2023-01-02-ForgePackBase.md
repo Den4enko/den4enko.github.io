@@ -2,6 +2,7 @@
 title: ForgePackBase
 date: 2023-01-02
 categories: [Minecraft, Modpacks]
+tags: [active]
 pin: true
 image:
   path: /assets/img/modpacks/preview/ForgePackBase.png
