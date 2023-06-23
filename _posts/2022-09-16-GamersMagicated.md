@@ -5,6 +5,7 @@ categories: [Minecraft, Modpacks]
 tags: [archived]
 image:
   path: /assets/img/modpacks/preview/GamersMagicated.png
+  lqip: /assets/img/modpacks/preview/GamersMagicated.svg
 ---
 ## About the modpack
 Hightly optimized magic Minecraft modpack oriented for multiplayer.

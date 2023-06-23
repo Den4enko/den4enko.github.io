@@ -5,6 +5,7 @@ categories: [Minecraft, Modpacks]
 tags: [active]
 image:
   path: /assets/img/modpacks/preview/GamersReloaded.png
+  lqip: /assets/img/modpacks/preview/GamersReloaded.svg
 ---
 Hightly optimized kitchen-sink Minecraft modpack oriented for multiplayer. Continuation of [GamersReforged](/posts/GamersReforged/).
 

@@ -5,6 +5,7 @@ categories: [Minecraft, Modpacks]
 tags: [active]
 image:
   path: /assets/img/modpacks/preview/GamersMiddled.png
+  lqip: /assets/img/modpacks/preview/GamersMiddled.svg
 ---
 ## About the modpack
 Hightly optimized magic, medieval, steampunk Minecraft modpack oriented for multiplayer.
