@@ -11,8 +11,8 @@ image:
 ## About the modpack
 Hightly optimized hi-tech, shooter-like Minecraft modpack oriented for multiplayer.
 
-<img alt="Scanned with jar-infection-scanner" height="56" src="/assets/svg/badges/jar-infection-scanner.svg">
-<img alt="Based on ForgePackBase" height="56" src="/assets/svg/badges/ForgePackBase.svg">
+<a href="https://github.com/overwolf/jar-infection-scanner"><img alt="jar-infection-scanner" height="40" src="/assets/svg/badges/jar-infection-scanner.svg"></a> 
+<a href="https://den4enko.github.io/posts/ForgePackBase/"><img alt="ForgePackBase" height="40" src="/assets/svg/badges/ForgePackBase.svg"></a>
 
 ## Downloads
 ### [MultiMC](https://multimc.org/), [PrismLauncher](https://prismlauncher.org/) Auto-Updating Pack:
