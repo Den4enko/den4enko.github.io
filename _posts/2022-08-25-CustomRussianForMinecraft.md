@@ -7,6 +7,7 @@ image:
   path: /assets/img/resourcepacks/preview/CustomRussianForMinecraft.png
   lqip: /assets/img/resourcepacks/preview/small/CustomRussianForMinecraft.png
 ---
+<a href="https://github.com/Den4enko/CustomRussianForMinecraft"><img alt="SourceCode" height="40" src="/assets/svg/badges/github_vector.svg"></a>
 
 Adds Ukranian dialect for Russian language. And also has some funny additions.
 

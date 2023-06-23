@@ -7,6 +7,7 @@ image:
   path: /assets/img/modpacks/preview/GamersMiddled.png
   lqip: /assets/img/modpacks/preview/small/GamersMiddled.png
 ---
+<a href="https://github.com/Den4enko/GamersMiddled"><img alt="SourceCode" height="40" src="/assets/svg/badges/github_vector.svg"></a>
 ## About the modpack
 Hightly optimized magic, medieval, steampunk Minecraft modpack oriented for multiplayer.
 

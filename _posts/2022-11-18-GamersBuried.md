@@ -7,12 +7,11 @@ image:
   path: /assets/img/modpacks/preview/GamersBuried.png
   lqip: /assets/img/modpacks/preview/small/GamersBuried.png
 ---
+<a href="https://github.com/Den4enko/GamersBuried"><img alt="SourceCode" height="40" src="/assets/svg/badges/github_vector.svg"></a>
+<a href="https://github.com/Fabulously-Optimized/fabulously-optimized"><img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg"></a> 
 ## About
-
 Have you ever wondered? Is it possible to survive buried underground?
 A modpack about exploring the mystical underworld, because of the solar apocalypse.
-
-<img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg">
 
 ## Downloads
 ### [MultiMC](https://multimc.org/), [PrismLauncher](https://prismlauncher.org/) Auto-Updating Pack:

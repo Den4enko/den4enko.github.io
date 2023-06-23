@@ -7,6 +7,7 @@ image:
   path: /assets/img/resourcepacks/preview/Slimefun-Resourcepack.png
   lqip: /assets/img/resourcepacks/preview/small/Slimefun-Resourcepack.png
 ---
+<a href="https://github.com/Den4enko/Slimefun-Resourcepack"><img alt="SourceCode" height="40" src="/assets/svg/badges/github_vector.svg"></a>
 ### Important Information
 This fork has been suspended! Use [xMikux/Slimefun-Resourcepack](https://github.com/xMikux/Slimefun-Resourcepack) instead.
 ## About

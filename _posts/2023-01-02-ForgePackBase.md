@@ -8,6 +8,7 @@ image:
   path: /assets/img/modpacks/preview/ForgePackBase.png
   lqip: /assets/img/modpacks/preview/small/ForgePackBase.png
 ---
+<a href="https://github.com/Den4enko/ForgePackBase"><img alt="SourceCode" height="40" src="/assets/svg/badges/github_vector.svg"></a>
 
 The modpack base for Forge.
 
