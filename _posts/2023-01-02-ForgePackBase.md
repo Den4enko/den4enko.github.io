@@ -6,7 +6,7 @@ tags: [active]
 pin: true
 image:
   path: /assets/img/modpacks/preview/ForgePackBase.png
-  lqip: /assets/img/modpacks/preview/ForgePackBase.svg
+  lqip: /assets/img/modpacks/preview/small/ForgePackBase.png
 ---
 
 The modpack base for Forge.

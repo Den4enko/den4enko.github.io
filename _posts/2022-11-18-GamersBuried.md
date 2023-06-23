@@ -5,7 +5,7 @@ categories: [Minecraft, Modpacks]
 tags: [active]
 image:
   path: /assets/img/modpacks/preview/GamersBuried.png
-  lqip: /assets/img/modpacks/preview/GamersBuried.svg
+  lqip: /assets/img/modpacks/preview/small/GamersBuried.png
 ---
 ## About
 

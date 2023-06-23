@@ -5,6 +5,7 @@ categories: [Minecraft, Resourcepacks]
 tags: [archived]
 image:
   path: /assets/img/resourcepacks/preview/Slimefun-Resourcepack.png
+  lqip: /assets/img/resourcepacks/preview/small/Slimefun-Resourcepack.png
 ---
 ### Important Information
 This fork has been suspended! Use [xMikux/Slimefun-Resourcepack](https://github.com/xMikux/Slimefun-Resourcepack) instead.

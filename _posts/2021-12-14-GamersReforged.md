@@ -5,7 +5,7 @@ categories: [Minecraft, Modpacks]
 tags: [archived]
 image:
   path: /assets/img/modpacks/preview/GamersReforged.png
-  lqip: /assets/img/modpacks/preview/GamersReforged.svg
+  lqip: /assets/img/modpacks/preview/small/GamersReforged.png
 ---
 ## About
 

@@ -5,6 +5,7 @@ categories: [Minecraft, Resourcepacks]
 tags: [active]
 image:
   path: /assets/img/resourcepacks/preview/CustomRussianForMinecraft.png
+  lqip: /assets/img/resourcepacks/preview/small/CustomRussianForMinecraft.png
 ---
 
 Adds Ukranian dialect for Russian language. And also has some funny additions.

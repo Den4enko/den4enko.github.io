@@ -6,7 +6,7 @@ tags: [active]
 pin: true
 image:
   path: /assets/img/modpacks/preview/GamersWarfared.png
-  lqip: /assets/img/modpacks/preview/GamersWarfared.svg
+  lqip: /assets/img/modpacks/preview/small/GamersWarfared.png
 ---
 ## About the modpack
 Hightly optimized hi-tech, shooter-like Minecraft modpack oriented for multiplayer.
