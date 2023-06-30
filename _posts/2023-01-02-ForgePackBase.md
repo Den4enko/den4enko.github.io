@@ -5,8 +5,8 @@ categories: [Minecraft, Modpacks]
 tags: [active]
 pin: true
 image:
-  path: /assets/modpacks/preview/ForgePackBase.png
-  lqip: /assets/modpacks/preview/small/ForgePackBase.png
+  path: /assets/modpacks/preview/ForgePackBase.svg
+  lqip: /assets/modpacks/preview/ForgePackBase.svg
 ---
 <a href="https://github.com/Den4enko/ForgePackBase"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
 
