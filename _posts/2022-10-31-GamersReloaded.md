@@ -4,10 +4,10 @@ date: 2022-10-31
 categories: [Minecraft, Modpacks]
 tags: [active]
 image:
-  path: /assets/img/modpacks/preview/GamersReloaded.png
-  lqip: /assets/img/modpacks/preview/small/GamersReloaded.png
+  path: /assets/modpacks/preview/GamersReloaded.png
+  lqip: /assets/modpacks/preview/small/GamersReloaded.png
 ---
-<a href="https://github.com/Den4enko/GamersReloaded"><img alt="SourceCode" height="40" src="/assets/svg/badges/github_vector.svg"></a>
+<a href="https://github.com/Den4enko/GamersReloaded"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
 
 Hightly optimized kitchen-sink Minecraft modpack oriented for multiplayer. Continuation of [GamersReforged](/posts/GamersReforged/).
 
