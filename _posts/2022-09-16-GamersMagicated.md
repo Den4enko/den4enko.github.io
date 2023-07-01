@@ -4,8 +4,8 @@ date: 2022-09-16
 categories: [Minecraft, Modpacks]
 tags: [archived]
 image:
-  path: /assets/modpacks/preview/GamersMagicated.png
   lqip: /assets/modpacks/preview/small/GamersMagicated.png
+  path: /assets/modpacks/preview/GamersMagicated.webp
 ---
 <a href="https://github.com/Den4enko/GamersMagicated"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
 ## About the modpack

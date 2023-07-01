@@ -4,8 +4,8 @@ date: 2023-04-01
 categories: [Minecraft, Modpacks]
 tags: [active]
 image:
-  path: /assets/modpacks/preview/GamersMiddled.png
   lqip: /assets/modpacks/preview/small/GamersMiddled.png
+  path: /assets/modpacks/preview/GamersMiddled.webp
 ---
 <a href="https://github.com/Den4enko/GamersMiddled"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
 ## About the modpack

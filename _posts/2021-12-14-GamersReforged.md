@@ -4,8 +4,8 @@ date: 2021-12-14
 categories: [Minecraft, Modpacks]
 tags: [archived]
 image:
-  path: /assets/modpacks/preview/GamersReforged.png
   lqip: /assets/modpacks/preview/small/GamersReforged.png
+  path: /assets/modpacks/preview/GamersReforged.webp
 ---
 <a href="https://github.com/Den4enko/GamersReforged"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
 ## About

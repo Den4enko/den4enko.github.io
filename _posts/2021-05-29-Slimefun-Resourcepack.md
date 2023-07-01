@@ -4,8 +4,8 @@ date: 2021-05-29
 categories: [Minecraft, Resourcepacks]
 tags: [archived]
 image:
-  path: /assets/resourcepacks/preview/Slimefun-Resourcepack.png
   lqip: /assets/resourcepacks/preview/small/Slimefun-Resourcepack.png
+  path: /assets/resourcepacks/preview/Slimefun-Resourcepack.webp
 ---
 <a href="https://github.com/Den4enko/Slimefun-Resourcepack"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
 ## About

@@ -4,8 +4,8 @@ date: 2022-11-18
 categories: [Minecraft, Modpacks]
 tags: [active]
 image:
-  path: /assets/modpacks/preview/GamersBuried.png
   lqip: /assets/modpacks/preview/small/GamersBuried.png
+  path: /assets/modpacks/preview/GamersBuried.webp
 ---
 <a href="https://github.com/Den4enko/GamersBuried"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
 <a href="https://github.com/Fabulously-Optimized/fabulously-optimized"><img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg"></a> 
