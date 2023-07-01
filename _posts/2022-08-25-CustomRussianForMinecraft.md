@@ -5,8 +5,8 @@ categories: [Minecraft, Resourcepacks]
 tags: [active]
 pin: true
 image:
-  path: /assets/resourcepacks/preview/CustomRussianForMinecraft.png
-  lqip: /assets/resourcepacks/preview/small/CustomRussianForMinecraft.png
+  path: /assets/resourcepacks/preview/CustomRussianForMinecraft.svg
+  lqip: /assets/resourcepacks/preview/CustomRussianForMinecraft.svg
 ---
 <a href="https://github.com/Den4enko/CustomRussianForMinecraft"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
 
