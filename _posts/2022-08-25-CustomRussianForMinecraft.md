@@ -16,11 +16,11 @@ For example,
 
 It turns this (Свекольный суп):
 
-![beetrootsoup](/assets/resourcepacks/CustomRussianForMinecraft/beetrootsoup.jpg){: lqip="/assets/resourcepacks/CustomRussianForMinecraft/small/beetrootsoup.jpg" width="432" height="111"}
+![beetrootsoup](/assets/resourcepacks/CustomRussianForMinecraft/beetrootsoup.webp){: lqip="/assets/resourcepacks/CustomRussianForMinecraft/small/beetrootsoup.jpg" width="432" height="111"}
   
  Into this (Борщ):
 
-![borsch](/assets/resourcepacks/CustomRussianForMinecraft/borsch.jpg){: lqip="/assets/resourcepacks/CustomRussianForMinecraft/small/borsch.jpg" width="432" height="111"}
+![borsch](/assets/resourcepacks/CustomRussianForMinecraft/borsch.webp){: lqip="/assets/resourcepacks/CustomRussianForMinecraft/small/borsch.jpg" width="432" height="111"}
   
 This made because of Russian-speak Ukrainians prefer saying "Borsh" instead of "Beetrootsoup".
 
