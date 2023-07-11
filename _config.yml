@@ -53,9 +53,6 @@ google_site_verification: # fill in to your verification string
 
 google_analytics:
   id: 'G-FLG6QP5C96'
-  pv:
-    proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
-    cache_path: # the local PV cache data, friendly to visitors from GFW region
 
 # Prefer color scheme setting.
 #
