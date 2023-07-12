@@ -2,7 +2,7 @@
 title: GamersReloaded
 date: 2022-10-31
 categories: [Minecraft, Modpacks]
-tags: [active]
+tags: [active, basedonfpb]
 image:
   lqip: /assets/modpacks/preview/small/GamersReloaded.png
   path: /assets/modpacks/preview/GamersReloaded.webp

@@ -2,7 +2,7 @@
 title: GamersMiddled
 date: 2023-04-01
 categories: [Minecraft, Modpacks]
-tags: [active]
+tags: [active, basedonfpb]
 image:
   lqip: /assets/modpacks/preview/small/GamersMiddled.png
   path: /assets/modpacks/preview/GamersMiddled.webp
