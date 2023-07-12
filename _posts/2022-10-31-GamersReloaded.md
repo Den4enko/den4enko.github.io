@@ -4,8 +4,8 @@ date: 2022-10-31
 categories: [Minecraft, Modpacks]
 tags: [active, basedonfpb]
 image:
-  lqip: /assets/modpacks/preview/small/GamersReloaded.png
-  path: /assets/modpacks/preview/GamersReloaded.webp
+  lqip: /assets/modpacks/preview/GamersReloaded.svg
+  path: /assets/modpacks/preview/GamersReloaded.svg
 ---
 <a href="https://github.com/Den4enko/GamersReloaded"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
 
