@@ -1,15 +1,1 @@
-<svg width="953" height="500" viewBox="0 0 953 500" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect y="250" width="952" height="250" fill="url(#paint0_linear_11_4)"/>
-<rect width="952" height="250" fill="url(#paint1_linear_11_4)"/>
-<path d="M339.093 214.69C333.963 212.03 327.313 208.8 315.533 208.8C261.763 208.8 261.763 291.64 315.533 291.64C327.313 291.64 336.623 288.22 341.753 285.56L345.363 313.68C337.003 317.1 325.033 319.38 315.533 319.38C223.383 319.38 223.573 181.44 315.533 181.44C325.033 181.44 334.153 183.15 342.323 186.76L339.093 214.69ZM465.36 319H434.58L407.22 267.13H394.11V319H366.94V183.15H420.52C468.97 183.15 473.72 251.36 433.82 262.95L465.36 319ZM394.11 210.32V240.72H418.05C436.48 240.72 436.48 210.32 418.05 210.32H394.11ZM551.294 210.32H510.634V237.49H545.214V264.66H510.634V319H483.464V183.15H551.294V210.32ZM635.959 240.72L689.539 181.06H698.089V319H670.539L670.729 243.19L635.959 279.67L601.189 243.19V319H573.639V181.06H582.379L635.959 240.72Z" fill="white"/>
-<defs>
-<linearGradient id="paint0_linear_11_4" x1="148.512" y1="72" x2="380.77" y2="616.701" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFD700"/>
-<stop offset="1" stop-color="#FFD075"/>
-</linearGradient>
-<linearGradient id="paint1_linear_11_4" x1="154.224" y1="53.5" x2="398.886" y2="610.51" gradientUnits="userSpaceOnUse">
-<stop stop-color="#0265D4"/>
-<stop offset="1" stop-color="#002072"/>
-</linearGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="953" height="500" fill="none"><path fill="url(#a)" d="M0 250h952v250H0z"/><path fill="url(#b)" d="M0 0h952v250H0z"/><path fill="#fff" d="M339.093 214.69c-5.13-2.66-11.78-5.89-23.56-5.89-53.77 0-53.77 82.84 0 82.84 11.78 0 21.09-3.42 26.22-6.08l3.61 28.12c-8.36 3.42-20.33 5.7-29.83 5.7-92.15 0-91.96-137.94 0-137.94 9.5 0 18.62 1.71 26.79 5.32l-3.23 27.93ZM465.36 319h-30.78l-27.36-51.87h-13.11V319h-27.17V183.15h53.58c48.45 0 53.2 68.21 13.3 79.8L465.36 319Zm-71.25-108.68v30.4h23.94c18.43 0 18.43-30.4 0-30.4h-23.94Zm157.184 0h-40.66v27.17h34.58v27.17h-34.58V319h-27.17V183.15h67.83v27.17Zm84.665 30.4 53.58-59.66h8.55V319h-27.55l.19-75.81-34.77 36.48-34.77-36.48V319h-27.55V181.06h8.74l53.58 59.66Z"/><defs><linearGradient id="a" x1="148.512" x2="380.77" y1="72" y2="616.701" gradientUnits="userSpaceOnUse"><stop stop-color="gold"/><stop offset="1" stop-color="#FFD075"/></linearGradient><linearGradient id="b" x1="154.224" x2="398.886" y1="53.5" y2="610.51" gradientUnits="userSpaceOnUse"><stop stop-color="#0265D4"/><stop offset="1" stop-color="#002072"/></linearGradient></defs></svg>
