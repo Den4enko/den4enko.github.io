@@ -1,5 +1,5 @@
 ---
-title: Slimefun-Resourcepack
+title: Slimefun-Resourcepack💚
 date: 2021-05-29
 categories: [Minecraft, Resourcepacks]
 tags: [archived]

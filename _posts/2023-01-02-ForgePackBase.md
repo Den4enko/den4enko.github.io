@@ -1,5 +1,5 @@
 ---
-title: ForgePackBase
+title: ForgePackBase🧩
 date: 2023-01-02
 categories: [Minecraft, Modpacks]
 tags: [active]

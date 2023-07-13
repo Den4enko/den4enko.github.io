@@ -1,5 +1,5 @@
 ---
-title: GamersMagicated
+title: GamersMagicated🪄
 date: 2022-09-16
 categories: [Minecraft, Modpacks]
 tags: [archived]

@@ -1,5 +1,5 @@
 ---
-title: GamersBuried
+title: GamersBuried👻
 date: 2022-11-18
 categories: [Minecraft, Modpacks]
 tags: [active]

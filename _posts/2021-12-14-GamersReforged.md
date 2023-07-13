@@ -1,5 +1,5 @@
 ---
-title: GamersReforged
+title: GamersReforged🪨
 date: 2021-12-14
 categories: [Minecraft, Modpacks]
 tags: [archived]

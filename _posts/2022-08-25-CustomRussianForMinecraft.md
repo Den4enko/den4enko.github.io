@@ -1,5 +1,5 @@
 ---
-title: CustomRussianForMinecraft
+title: CustomRussianForMinecraft🕊️
 date: 2022-08-25
 categories: [Minecraft, Resourcepacks]
 tags: [active]
