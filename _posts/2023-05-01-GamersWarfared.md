@@ -6,7 +6,6 @@ tags: [active, basedonfpb]
 pin: true
 image:
   path: /assets/modpacks/preview/GamersWarfared.svg
-  lqip: /assets/modpacks/preview/GamersWarfared.svg
 ---
 <a href="https://github.com/Den4enko/GamersWarfared"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
 <a href="https://github.com/overwolf/jar-infection-scanner"><img alt="jar-infection-scanner" height="40" src="/assets/badges/jar-infection-scanner.svg"></a> 
