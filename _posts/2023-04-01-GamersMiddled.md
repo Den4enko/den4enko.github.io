@@ -3,10 +3,12 @@ title: GamersMiddled🗝️
 date: 2023-04-01
 categories: [Minecraft, Modpacks]
 tags: [active, basedonfpb]
+pin: true
 image:
   path: /assets/modpacks/preview/GamersMiddled.svg
 ---
 <a href="https://github.com/Den4enko/GamersMiddled"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
+<a href="https://den4enko.github.io/posts/ForgePackBase/"><img alt="ForgePackBase" height="40" src="/assets/badges/ForgePackBase.svg"></a>
 ## About the modpack
 Hightly optimized magic, medieval, steampunk Minecraft modpack oriented for multiplayer.
 
