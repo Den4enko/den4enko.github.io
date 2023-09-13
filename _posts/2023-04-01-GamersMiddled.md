@@ -3,7 +3,6 @@ title: GamersMiddled🗝️
 date: 2023-04-01
 categories: [Minecraft, Modpacks]
 tags: [active, basedonfpb]
-pin: true
 image:
   path: /assets/modpacks/preview/GamersMiddled.svg
 ---
