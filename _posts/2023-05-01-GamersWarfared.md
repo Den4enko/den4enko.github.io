@@ -8,7 +8,7 @@ image:
 ---
 <a href="https://github.com/Den4enko/GamersWarfared"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
 <a href="https://github.com/overwolf/jar-infection-scanner"><img alt="jar-infection-scanner" height="40" src="/assets/badges/jar-infection-scanner.svg"></a> 
-<a href="https://den4enko.github.io/posts/ForgePackBase/"><img alt="ForgePackBase" height="40" src="/assets/badges/ForgePackBase.svg"></a>
+<a href="https://den4enko.github.io/posts/PackFramework/"><img alt="PackFramework" height="40" src="https://den4enko.github.io/PackFramework/badge.svg"></a>
 ## About the modpack
 Hightly optimized hi-tech, shooter-like Minecraft modpack oriented for multiplayer.
 

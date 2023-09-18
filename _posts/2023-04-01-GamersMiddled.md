@@ -7,7 +7,7 @@ image:
   path: /assets/modpacks/preview/GamersMiddled.svg
 ---
 <a href="https://github.com/Den4enko/GamersMiddled"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
-<a href="https://den4enko.github.io/posts/ForgePackBase/"><img alt="ForgePackBase" height="40" src="/assets/badges/ForgePackBase.svg"></a>
+<a href="https://den4enko.github.io/posts/PackFramework/"><img alt="PackFramework" height="40" src="https://den4enko.github.io/PackFramework/badge.svg"></a>
 ## About the modpack
 Hightly optimized magic, medieval, steampunk Minecraft modpack oriented for multiplayer.
 

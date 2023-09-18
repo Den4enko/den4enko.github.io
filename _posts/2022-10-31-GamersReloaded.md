@@ -7,6 +7,7 @@ image:
   path: /assets/modpacks/preview/GamersReloaded.svg
 ---
 <a href="https://github.com/Den4enko/GamersReloaded"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
+<a href="https://den4enko.github.io/posts/PackFramework/"><img alt="PackFramework" height="40" src="https://den4enko.github.io/PackFramework/badge.svg"></a>
 
 Hightly optimized kitchen-sink Minecraft modpack oriented for multiplayer. Continuation of [GamersReforged](/posts/GamersReforged/).
 
