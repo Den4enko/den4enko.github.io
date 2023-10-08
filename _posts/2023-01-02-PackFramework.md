@@ -10,6 +10,12 @@ image:
 <a href="https://github.com/Den4enko/PackFramework"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
 > Previously ForgePackBase. 
 
+### Modlist
+<br>
+<details>
+  Lol
+</details>
+
 ## The modpack base for Minecraft.
 It's contains mods, that optimizes and tweaks minecraft.
 > You'll need [packwiz](https://packwiz.infra.link/) to edit this.
