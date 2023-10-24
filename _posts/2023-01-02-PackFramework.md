@@ -15,10 +15,10 @@ It's contains mods, that optimizes and tweaks minecraft.
 > You'll need [packwiz](https://packwiz.infra.link/) to edit this.
 {: .prompt-info }
 ## Downloads:
-#### Forge Versions:
+### Forge Versions:
  [MultiMC](https://multimc.org/), [PrismLauncher](https://prismlauncher.org/) Auto-Updating Pack:
 - 1.19.2: [Click or Drag-n-Drop](/PackFramework/downloads/mmc/PackFramework-Forge-1.19.2.zip)
 - 1.18.2: [Click or Drag-n-Drop](/PackFramework/downloads/mmc/PackFramework-Forge-1.18.2.zip)
-#### Quilt Versions:
+### Quilt Versions:
  [MultiMC](https://multimc.org/), [PrismLauncher](https://prismlauncher.org/) Auto-Updating Pack:
  - Not yet available(
