@@ -1,8 +1,8 @@
 ---
 title: GamersModpacks
-date: 2023-01-02
+date: 2023-08-11
 categories: [Minecraft]
-tags: [active]
+tags: []
 pin: true
 image:
   path: /assets/preview/GamersModpacks.svg
