@@ -5,7 +5,7 @@ categories: [Minecraft, Modpacks]
 tags: [active]
 pin: true
 image:
-  path: /assets/modpacks/preview/PackFramework.svg
+  path: /assets/preview/PackFramework.svg
 ---
 <a href="https://github.com/Den4enko/PackFramework"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
 > Previously ForgePackBase. 

@@ -5,7 +5,7 @@ categories: [Minecraft, Resourcepacks]
 tags: [active]
 pin: true
 image:
-  path: /assets/resourcepacks/preview/CustomRussianForMinecraft.svg
+  path: /assets/preview/CustomRussianForMinecraft.svg
 ---
 <a href="https://github.com/Den4enko/CustomRussianForMinecraft"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
 
@@ -15,11 +15,11 @@ For example,
 
 It turns this (Свекольный суп):
 
-![beetrootsoup](/assets/resourcepacks/CustomRussianForMinecraft/beetrootsoup.webp){: lqip="/assets/resourcepacks/CustomRussianForMinecraft/small/beetrootsoup.jpg" width="432" height="111"}
+![beetrootsoup](/assets/posts/CustomRussianForMinecraft/beetrootsoup.webp){: lqip="/assets/posts/CustomRussianForMinecraft/small/beetrootsoup.jpg" width="432" height="111"}
   
  Into this (Борщ):
 
-![borsch](/assets/resourcepacks/CustomRussianForMinecraft/borsch.webp){: lqip="/assets/resourcepacks/CustomRussianForMinecraft/small/borsch.jpg" width="432" height="111"}
+![borsch](/assets/posts/CustomRussianForMinecraft/borsch.webp){: lqip="/assets/posts/CustomRussianForMinecraft/small/borsch.jpg" width="432" height="111"}
   
 This made because of Russian-speak Ukrainians prefer saying "Borsh" instead of "Beetrootsoup".
 
