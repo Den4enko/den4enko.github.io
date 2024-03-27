@@ -1,4 +1,5 @@
 ---
+
 title: PackFramework🧩
 date: 2023-01-02
 categories: [Minecraft, Modpacks]
@@ -6,7 +7,9 @@ tags: [active]
 pin: true
 image:
   path: /assets/preview/PackFramework.svg
+
 ---
+
 <a href="https://github.com/Den4enko/PackFramework"><img alt="SourceCode" height="40" src="/assets/badges/github_vector.svg"></a>
 
 PackFramework is a modular, performance-minded Minecraft modpack designed to facilitate the creation of custom modpacks. Accelerate your Minecraft modpack development with PackFramework. This packwiz-powered modpack offers a carefully curated collection of optimization mods for a smoother experience along with essential utility mods to expand your graphics.
@@ -16,23 +19,21 @@ PackFramework is a modular, performance-minded Minecraft modpack designed to fac
 * **Two Variants:**
   
   * **Nano:** Lightweight variant focused purely on optimization for streamlined performance boosts.
-  * **Normal (Ultra):** Comprehensive selection of optimization and utility mods for expansive modpack builds.
+  * **Normal (Ultra):** Comprehensive selection of optimization and utility mods.
 
 * **All at once:**
   
   * Simultaneous updates of all supported versions for each Modloader Group*.
 
-* **Modpack Development Kit(Coming soon):**
+* **Modpack Development Kit (Coming soon):**
   
   * Easily create your own modpacks with automated scripts for PackFramework based development
   
-  *Quilt and Fabric. Forge
+  *Quilt and Fabric
   
   ### Important Notes
 
 * **Not for Vanilla:** PackFramework is designed for use with other modpacks. It is not so good to play vanilla Minecraft with it, I suggest you to use [FabulouslyOptimised](https://download.fo/).
-
-* **Customization Focused:** PackFramework is intended for developers and players who enjoy building their own unique modpack experiences.
 
 ### Version Support
 
