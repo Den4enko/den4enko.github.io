@@ -3,7 +3,7 @@ title: CustomRussianForMinecraft🕊️
 date: 2022-08-25
 categories: [Minecraft, Resourcepacks]
 tags: [active]
-pin: true
+pin: false
 image:
   path: /assets/preview/CustomRussianForMinecraft.svg
 ---
